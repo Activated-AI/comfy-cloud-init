@@ -1,7 +1,7 @@
 #!/bin/bash
 
 apt-get update
-apt-get install less vim
+apt-get install less emacs vim
 
 
 git config --global user.email "rrenaud@gmail.com"
